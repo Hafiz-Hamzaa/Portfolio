@@ -16,16 +16,6 @@ p{
     font-size: 20px;
     color: #9CA3AF;
 }
-/* .name{
-    font-size: 96px;
-    margin-top: 10px;
-    font-family: "PT Serif", serif;
-    background: linear-gradient(to right, #3F5EFB, #A31A8C);
-    background-clip: text;
-  -webkit-background-clip: text;
-    color: transparent;
-  -webkit-text-fill-color: transparent;
-} */
 
 .name {
   font-size: 96px;
@@ -141,17 +131,6 @@ p{
     position: relative;
     bottom: 35px;
 }
-/* .work{
-    border-radius: 20px;
-    width: 155px;
-    height: 38px;
-    font-family: "PT Serif", serif;
-    font-size: 16px;
-    color: #2DD48F;
-    background-color: #A855F71A;
-    border-color: #2DD48F;
-    box-shadow: 0px 0px 15px 4px #2DD48F;
-} */
 
 .work {
   position: relative;
@@ -189,19 +168,6 @@ p{
     box-shadow: 0 0 15px 4px #2DD48F;
   }
 }
-
-/* .sc-link{
-    border-radius: 20px;
-    width: 155px;
-    height: 38px;
-    font-family: "PT Serif", serif;
-    font-size: 16px;
-    color: #C084F6;
-    background-color: #A855F71A;
-    border-color: #C084F6;
-    box-shadow: 0px 0px 15px 4px #C084F6;
-} */
-
 
 .sc-link {
   position: relative;
@@ -288,13 +254,6 @@ p{
     gap: 50px;
     margin-top: 60px;
 }
-/* .box-one{
-    width: 315px;
-    height: 350px;
-    background-color: #13293D;
-    border-radius: 20px;
-    box-shadow: 0 0 15px 4px #60A5FA;
-} */
 
 .box-one {
   width: 315px;
@@ -334,14 +293,6 @@ p{
     opacity: 0.7;
   }
 }
-
-/* .box-two{
-    width: 315px;
-    height: 350px;
-    background-color: #13293D;
-    border-radius: 20px;
-    box-shadow: 0 0 15px 4px #60A5FA;
-} */
 
 .box-two {
   width: 315px;
@@ -383,14 +334,6 @@ p{
     opacity: 0.7;
   }
 }
-
-/* .box-three{
-    width: 315px;
-    height: 350px;
-    background-color: #13293D;
-    border-radius: 20px;
-    box-shadow: 0 0 15px 4px #60A5FA;
-} */
 
 .box-three {
   width: 315px;
@@ -699,5 +642,3 @@ p{
     font-size: 22px;
   }
 }
-
-
