@@ -4,6 +4,7 @@
 }
 body{
     background-color: #011627;
+     overflow-x: hidden;
 }
 .about{
     text-align: center;
